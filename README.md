@@ -1,61 +1,112 @@
-<h1 align="center">Hi there, I'm Prasanth B 👋</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=560&lines=Computer+Science+Engineering+Student;Eager+to+learn+new+things;Full-Stack+Web+Developer" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/prasanth-b-75a16b277/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:prashanthbalaji666@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Prashanth5027&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 I'm currently in my **Fourth Year** pursuing a **B.E in Computer Science and Engineering** at **Easwari Engineering College**, Chennai.
-- 🌱 I’m constantly exploring new technologies and I'm **eager to learn new things**.
-- 💡 My primary focus is on software development, web development, and problem-solving.
-- 📫 How to reach me: [prashanthbalaji666@gmail.com](mailto:prashanthbalaji666@gmail.com)
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Programming Languages:**  
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> 
-
-**Frontend Development:**  
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
-
-**Backend & Databases:**  
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> 
-
-**Tools & Version Control:**  
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> 
-
----
-
-### 🚀 Projects
-
-*   **Malicious URL Detection**  
-    *Tech Stack: Python, Scikit-learn*  
-    A machine learning-based project to classify and detect malicious URLs to improve web security.
-
-*   **Full-Stack E-Commerce Web Application**  
-    *Tech Stack: Node.js, MongoDB/MySQL, HTML, CSS, JavaScript*  
-    A complete e-commerce platform with features like product browsing, cart management, and user authentication.
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://ghstats.dev/api/card?username=Prashanth5027&theme=tokyonight" alt="Prashanth's GitHub Stats" />
+
+<!-- 🌟 Add your custom motion-graphics animated banner here 🌟 -->
+<!-- Placeholder: You can replace the image below with your own animated banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Prasanth%20B&fontSize=50&fontAlignY=35&animation=twinkling" width="100%" alt="Header Banner" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Full-Stack+Web+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/prasanth-b-75a16b277/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:prashanthbalaji666@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/Prashanth5027">
+  <img src="https://komarev.com/ghpvc/?username=Prashanth5027&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</a>
+
+<br/><br/>
+
 </div>
 
 ---
-<p align="center"><i>Thank you for visiting my profile! Feel free to connect with me.</i></p>
+
+<div align="center">
+  <h3>👨‍💻 About Me</h3>
+  <blockquote>
+    <p>🎓 <b>B.E in Computer Science and Engineering</b> (Fourth Year) at <b>Easwari Engineering College</b>, Chennai.</p>
+    <p>🌱 Eager to learn new things and constantly exploring modern technologies.</p>
+    <p>💡 Passionate about <b>Software Development</b>, <b>Full-Stack Web Development</b>, and <b>Problem Solving</b>.</p>
+  </blockquote>
+</div>
+
+---
+
+<div align="center">
+  <h3>🛠️ Tech Stack</h3>
+  <br/>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,nodejs,mysql,mongodb,git,github&theme=dark&perline=6" alt="Tech Stack" />
+    </a>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>🚀 Featured Projects</h3>
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🛡️ Malicious URL Detection</h4>
+      <p align="center">
+        <i>Python, Scikit-learn</i><br/><br/>
+        A machine learning-based project to classify and detect malicious URLs to improve web security.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🛒 E-Commerce Web App</h4>
+      <p align="center">
+        <i>Node.js, MongoDB, HTML, CSS, JS</i><br/><br/>
+        A complete full-stack e-commerce platform with product browsing, cart management, and user authentication.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <h3>📊 GitHub Analytics</h3>
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://ghstats.dev/api/card?username=Prashanth5027&theme=tokyonight&hide_border=true" alt="Prashanth's GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashanth5027&theme=tokyonight&hide_border=true" alt="Prashanth's GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanth5027&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <h3>🐍 Contribution Snake</h3>
+  <!-- 🌟 Add your GitHub Contribution Grid Snake animation here 🌟 -->
+  <!-- Example snippet to uncomment once your GitHub Actions workflow is set up: -->
+  <!-- <img src="https://raw.githubusercontent.com/Prashanth5027/Prashanth5027/output/github-contribution-grid-snake.svg" alt="Snake animation" /> -->
+  <p><i>Placeholder for the GitHub Contribution Grid Snake animation.</i></p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%" alt="Footer Banner" />
+</div>

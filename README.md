@@ -2,13 +2,14 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Computer+Science+Engineering+Student;Eager+to+learn+new+things;Full-Stack+Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=560&lines=Computer+Science+Engineering+Student;Eager+to+learn+new+things;Full-Stack+Web+Developer" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prasanth-b-75a16b277/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:prashanthbalaji666@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Prashanth5027&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -53,12 +54,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prashanth5027&show_icons=true&theme=radium&hide_border=true&count_private=true" alt="Prasanth's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashanth5027&theme=radium&hide_border=true" alt="Prasanth's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanth5027&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/card?username=Prashanth5027&theme=tokyonight" alt="Prashanth's GitHub Stats" />
 </div>
 
 ---

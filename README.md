@@ -4,7 +4,7 @@
 <!-- ║              P R A S A N T H   B   //   R O O T              ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00FF41,100:0d1117&height=200&section=header&text=PRASANTH%20B&fontSize=60&fontColor=FF0000&fontAlignY=35&animation=fadeIn&desc=root@prasanth:~$%20cat%20/etc/profile&descAlignY=55&descSize=14&descColor=0FF" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00FF41,100:0d1117&height=200&section=header&text=PRASANTH%20B&fontSize=60&fontColor=00FFFF&fontAlignY=35&animation=fadeIn&desc=root@prasanth:~$%20cat%20/etc/profile&descAlignY=55&descSize=14&descColor=0FF" width="100%" alt="Header" />
 
 <br/>
 
@@ -101,10 +101,6 @@
 
 <img src="https://ghstats.dev/api/card?username=Prashanth5027&theme=radical&hide_border=true" alt="GitHub Stats" />
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Prashanth5027&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF0000&currStreakLabel=00FF41&sideLabels=0FF&dates=555555" alt="GitHub Streak" />
-
 <br/>
 </div>
 
@@ -116,7 +112,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=3000&color=00FF41&center=true&vCenter=true&width=500&lines=%5BSTATUS%5D+████████████████████████████+ONLINE;%5BUPTIME%5D+Since+2021+—+Fourth+Year+CSE;%5BPING%5D+prashanthbalaji666%40gmail.com;%5BSIGNAL%5D+Connection+Established+✓" alt="Status Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=3000&color=00FF41&center=true&vCenter=true&width=500&lines=%5BSTATUS%5D+ONLINE+%2F%2F+All+Systems+Operational;%5BUPTIME%5D+Since+2021+--+Fourth+Year+CSE;%5BPING%5D+prashanthbalaji666%40gmail.com;%5BSIGNAL%5D+Connection+Established" alt="Status Typing" />
 </a>
 
 <br/><br/>

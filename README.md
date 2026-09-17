@@ -1,11 +1,8 @@
 <div align="center">
 
-<!-- ██████╗ ██████╗  █████╗ ███████╗ █████╗ ███╗   ██╗████████╗██╗  ██╗ -->
-<!-- ██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██║  ██║ -->
-<!-- ██████╔╝██████╔╝███████║███████╗███████║██╔██╗ ██║   ██║   ███████║ -->
-<!-- ██╔═══╝ ██╔══██╗██╔══██║╚════██║██╔══██║██║╚██╗██║   ██║   ██╔══██║ -->
-<!-- ██║     ██║  ██║██║  ██║███████║██║  ██║██║ ╚████║   ██║   ██║  ██║ -->
-<!-- ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ -->
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║              P R A S A N T H   B   //   R O O T              ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00FF41,100:0d1117&height=200&section=header&text=PRASANTH%20B&fontSize=60&fontColor=00FF41&fontAlignY=35&animation=fadeIn&desc=root@prasanth:~$%20cat%20/etc/profile&descAlignY=55&descSize=14&descColor=0FF" width="100%" alt="Header" />
 
@@ -36,26 +33,13 @@
 
 ## `📂 ./about-me.sh`
 
-```
-prasanth@root:~$ cat about-me.sh
-```
+<div align="center">
 
-> ```
-> ╔══════════════════════════════════════════════════════════════════╗
-> ║                                                                ║
-> ║   🎓  B.E in Computer Science and Engineering (Fourth Year)    ║
-> ║       @ Easwari Engineering College, Chennai                   ║
-> ║                                                                ║
-> ║   🌱  Eager to learn new things & constantly exploring         ║
-> ║       modern technologies                                      ║
-> ║                                                                ║
-> ║   💡  Passionate about Software Development,                   ║
-> ║       Full-Stack Web Development & Problem Solving             ║
-> ║                                                                ║
-> ║   📫  prashanthbalaji666@gmail.com                             ║
-> ║                                                                ║
-> ╚══════════════════════════════════════════════════════════════════╝
-> ```
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=500&color=0FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=200&lines=%24+cat+%2Fetc%2Fprofile;%E2%94%8C──────────────────────────────────────────────────;%E2%94%82+%F0%9F%8E%93+B.E+in+Computer+Science+%26+Engineering+(Fourth+Year);%E2%94%82+%F0%9F%8F%AB+Easwari+Engineering+College%2C+Chennai;%E2%94%82+%F0%9F%8C%B1+Eager+to+learn+new+things+%26+exploring+modern+tech;%E2%94%82+%F0%9F%92%A1+Passionate+about+Full-Stack+Dev+%26+Problem+Solving;%E2%94%82+%F0%9F%93%AB+prashanthbalaji666%40gmail.com;%E2%94%94──────────────────────────────────────────────────" alt="About Me Typing" />
+</a>
+
+</div>
 
 <hr/>
 
@@ -126,18 +110,22 @@ prasanth@root:~$ neofetch --github-stats
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Prashanth5027&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=00FF41&title_color=00FF41&text_color=0FF" alt="GitHub Stats" />
+      <img src="https://ghstats.dev/api/card?username=Prashanth5027&theme=radical&hide_border=true" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashanth5027&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=0FF&dates=555555" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=Prashanth5027&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=0FF&dates=555555" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanth5027&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=0FF&layout=compact" alt="Top Languages" />
+      <img src="https://ghstats.dev/api/top-langs?username=Prashanth5027&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prashanth5027&bg_color=0d1117&color=00FF41&line=0FF&point=00FF41&area=true&area_color=00FF41&hide_border=true" alt="Activity Graph" width="95%" />
 
 <br/>
 </div>
@@ -153,17 +141,11 @@ prasanth@root:~$ echo "Connection established. Thank you for visiting."
 <div align="center">
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   [STATUS]  ██████████████████████████████████  ONLINE       ║
-║   [UPTIME]  Since 2021 — Fourth Year CSE                     ║
-║   [PING]    prashanthbalaji666@gmail.com                     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=3000&color=00FF41&center=true&vCenter=true&width=500&lines=%5BSTATUS%5D+████████████████████████████+ONLINE;%5BUPTIME%5D+Since+2021+—+Fourth+Year+CSE;%5BPING%5D+prashanthbalaji666%40gmail.com;%5BSIGNAL%5D+Connection+Established+✓" alt="Status Typing" />
+</a>
 
-<br/>
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF41,100:0d1117&height=100&section=footer" width="100%" alt="Footer" />
 

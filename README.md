@@ -4,7 +4,7 @@
 <!-- ║              P R A S A N T H   B   //   R O O T              ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00FF41,100:0d1117&height=200&section=header&text=PRASANTH%20B&fontSize=60&fontColor=00FF41&fontAlignY=35&animation=fadeIn&desc=root@prasanth:~$%20cat%20/etc/profile&descAlignY=55&descSize=14&descColor=0FF" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00FF41,100:0d1117&height=200&section=header&text=PRASANTH%20B&fontSize=60&fontColor=FF0000&fontAlignY=35&animation=fadeIn&desc=root@prasanth:~$%20cat%20/etc/profile&descAlignY=55&descSize=14&descColor=0FF" width="100%" alt="Header" />
 
 <br/>
 
@@ -34,20 +34,22 @@
 ## `📂 ./about-me.sh`
 
 <div align="center">
+<br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=500&color=0FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=200&lines=%24+cat+%2Fetc%2Fprofile;%E2%94%8C──────────────────────────────────────────────────;%E2%94%82+%F0%9F%8E%93+B.E+in+Computer+Science+%26+Engineering+(Fourth+Year);%E2%94%82+%F0%9F%8F%AB+Easwari+Engineering+College%2C+Chennai;%E2%94%82+%F0%9F%8C%B1+Eager+to+learn+new+things+%26+exploring+modern+tech;%E2%94%82+%F0%9F%92%A1+Passionate+about+Full-Stack+Dev+%26+Problem+Solving;%E2%94%82+%F0%9F%93%AB+prashanthbalaji666%40gmail.com;%E2%94%94──────────────────────────────────────────────────" alt="About Me Typing" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=800&color=0FF&center=true&vCenter=true&width=650&lines=%F0%9F%8E%93+B.E+in+CSE+(Fourth+Year)+%7C+Easwari+Engineering+College" alt="Education" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=%F0%9F%8C%B1+Eager+to+learn+new+things+%26+exploring+modern+tech" alt="Learning" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=800&color=0FF&center=true&vCenter=true&width=650&lines=%F0%9F%92%A1+Passionate+about+Full-Stack+Dev+%26+Problem+Solving" alt="Passion" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=%F0%9F%93%AB+prashanthbalaji666%40gmail.com" alt="Contact" />
+
+<br/>
 </div>
 
 <hr/>
 
 ## `⚡ sys.getSkills()`
-
-```
-prasanth@root:~$ sudo apt list --installed | grep "dev-tools"
-```
 
 <div align="center">
 <br/>
@@ -65,12 +67,6 @@ prasanth@root:~$ sudo apt list --installed | grep "dev-tools"
 <hr/>
 
 ## `🗂️ ls ~/projects/`
-
-```
-prasanth@root:~$ ls -la ~/projects/
-drwxr-xr-x  2 prasanth prasanth  4096 Sep 17 00:00 malicious-url-detection/
-drwxr-xr-x  2 prasanth prasanth  4096 Sep 17 00:00 ecommerce-webapp/
-```
 
 <table align="center" width="100%">
   <tr>
@@ -100,32 +96,14 @@ drwxr-xr-x  2 prasanth prasanth  4096 Sep 17 00:00 ecommerce-webapp/
 
 ## `📊 net.getStats()`
 
-```
-prasanth@root:~$ neofetch --github-stats
-```
-
 <div align="center">
 <br/>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://ghstats.dev/api/card?username=Prashanth5027&theme=radical&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=Prashanth5027&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=0FF&dates=555555" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://ghstats.dev/api/top-langs?username=Prashanth5027&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<img src="https://ghstats.dev/api/card?username=Prashanth5027&theme=radical&hide_border=true" alt="GitHub Stats" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prashanth5027&bg_color=0d1117&color=00FF41&line=0FF&point=00FF41&area=true&area_color=00FF41&hide_border=true" alt="Activity Graph" width="95%" />
+<img src="https://streak-stats.demolab.com?user=Prashanth5027&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF0000&currStreakLabel=00FF41&sideLabels=0FF&dates=555555" alt="GitHub Streak" />
 
 <br/>
 </div>
@@ -133,10 +111,6 @@ prasanth@root:~$ neofetch --github-stats
 <hr/>
 
 ## `📡 uptime && exit`
-
-```
-prasanth@root:~$ echo "Connection established. Thank you for visiting."
-```
 
 <div align="center">
 <br/>
